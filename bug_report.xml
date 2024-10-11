@@ -8,8 +8,8 @@
 	<Title>"Button [Login] on the search page is automatically refresh the page</Title>
 	<StepsToReproduce>
          <Step>1. Navigate to Capital.com</Step>
-         <Step>2. Click on button [Search] and press Enter</Step>
-         <Step>3. Click button [Login]</Step>
+         <Step>2. Click on the button [Search] and press Enter</Step>
+         <Step>3. Click the button [Login]</Step>
         </StepsToReproduce>
  	<ExpectedResult>Login form is opened.</ExpectedResult>
 	<ActualResult>The page is refreshing</ActualResult>
