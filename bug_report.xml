@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+ <BugReport>
+	<ID>1</ID>
+	<DateReported>2024-10-10</DateReported>
+	<Priority>Critical</Priority>
+	<Environment>Win 11 Chrome 129</Environment>
+	<Title>"Button [Login] on the search page is automatically refresh the page</Title>
+	<StepsToReproduce>
+         <Step>1. Navigate to Capital.com</Step>
+         <Step>2. Click on button [Search] and press Enter</Step>
+         <Step>3. Click button [Login]</Step>
+        </StepsToReproduce>
+ 	<ExpectedResult>Login form is opened.</ExpectedResult>
+	<ActualResult>The page is refreshing</ActualResult>
+	<Attachment>Link</Attachment>
+	<Author>Name</Author>
+	<Status>Opened</Status>
+	<Bugcomments>null</Bugcomments>
+ </BugReport>
+</xml>
