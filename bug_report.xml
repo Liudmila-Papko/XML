@@ -9,7 +9,7 @@
 	<StepsToReproduce>
          <Step>1. Navigate to Capital.com</Step>
          <Step>2. Click on the button [Search] and press Enter</Step>
-         <Step>3. Click the button [Login]</Step>
+         <Step>3. Click on the button [Login]</Step>
         </StepsToReproduce>
  	<ExpectedResult>Login form is opened.</ExpectedResult>
 	<ActualResult>The page is refreshing</ActualResult>
