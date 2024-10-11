@@ -1,0 +1,17 @@
+<xml>
+	<field name="skill1">Teory of testing</field>
+	<field name="skill2">Terminal</field>
+	<field name="skill3">GitHub</field>
+	<field name="skill4">DevTools</field>
+	<field name="skill5">Fiddler</field>
+	<field name="skill6">Postman</field>
+	<field name="skill7">SQL</field>
+	<field name="skill8">Charles</field>
+	<field name="skill9">ADB</field>
+	<field name="skill10">Android studio</field>
+	<field name="skill11">JMeter</field>
+	<field name="skill12">JS</field>
+	<field name="skill13">Swagger</field>
+	<field name="skill14">Wegservises</field>
+
+</xml>
